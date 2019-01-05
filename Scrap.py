@@ -1,5 +1,5 @@
 
-# please obey robot.txt
+# please obey robots.txt
 
 
 # scraping bot
